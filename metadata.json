@@ -1,0 +1,5 @@
+{
+  "name": "Hotdog & Lavash QR Order",
+  "description": "A real-time QR-based ordering system for restaurants. Admin manages menu and tables; customers scan and order.",
+  "requestFramePermissions": []
+}
